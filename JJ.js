@@ -1,5 +1,5 @@
 document.getElementById("h1").innerHTML = "Hi"
-alert("Hi Aadya")
+alert("Hi Aadya");
 
 function changetext(){
     document.getElementById("p1").innerHTML = "YO"
