@@ -1,5 +1,5 @@
 document.getElementById("h1").innerHTML = "Hi"
-
+alert("HI");
 
 function changetext(){
     document.getElementById("p1").innerHTML = "YO"
